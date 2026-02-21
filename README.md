@@ -126,6 +126,8 @@ python movie_recommendation.py
 
 The dashboard includes genre-wise analysis, rating distribution, and top 10 movies — all in a dark theme! 🖤
 
+![Movie Recommendation System Charts](movie_recommendation.png)
+
 ---
 
 ## 🎯 Sample Output
